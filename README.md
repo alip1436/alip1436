@@ -1,11 +1,14 @@
 ## Hi there 👋
 
 <!--
-**alip1436/alip1436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alip1436/alip1436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<h1>My name is Alison Porter</h1>
+<h2>Creator |Graphic Designer| Web Developer</h2>
+<p>I am a passionate designer and developer blending creativity with technical skills, building a meaningful digital experience. </p>
 
-Here are some ideas to get you started:
+<p>🔭 I’m currently working on A web based sleep education platform that combines health focused design to promote better sleep awareness and wellness. <a src="https://adpdesign.art/sleepwiser" alt="Link to SleepWiser website">Visit SleepWiser</a></p> 
 
-- 🔭 I’m currently working on ...
+...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
