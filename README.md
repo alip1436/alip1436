@@ -14,6 +14,12 @@
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-teal?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Adobe CC](https://img.shields.io/badge/Adobe%20CC-teal?style=flat&logo=adobe&logoColor=white)](https://www.adobe.com/)
+[![Postman](https://img.shields.io/badge/Postman-black?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![SEO](https://img.shields.io/badge/SEO-teal?style=flat&logoColor=white)](#)
+[![API](https://img.shields.io/badge/API-teal?style=flat&logo=api&logoColor=white)](#)
+[![E-Commerce](https://img.shields.io/badge/E-Commerce-black?style=flat&logo=shopify&logoColor=white)](#)
+
 
 ### 🤝 Let’s Collaborate
 I’m open to:
