@@ -25,7 +25,8 @@ Reach out via [Email Me](mailto:adpdesign@msn.com) or [Portfolio](https://adpdes
 - Exploring sleep science & wellness
 
 - 💬 Ask me how we can collaborate together!
-- 📫 How to reach me: [Email Me](mailto:adpdesign@msn.com) [Call Me](tel:+19706408487)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-0077B5?style=flat)](https://www.linkedin.com/in/alison-porter)
+
 <h3 align="center" style="color:#7D6E83;">💫 Let's Connect</h3>
 
 <p align="center">
