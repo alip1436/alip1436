@@ -17,15 +17,12 @@ I’m open to:
 - Sleep education initiatives  
 - UX/UI consulting
 
-Reach out via [Email Me](mailto:adpdesign@msn.com) or [Portfolio](https://adpdesign.art)
-
 - ### 🌱 Fun Facts
 - Coffee aficionado ☕  
 - Lover of moon-tone colors 🌙  
 - Exploring sleep science & wellness
 
 - 💬 Ask me how we can collaborate together!
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-0077B5?style=flat)](https://www.linkedin.com/in/alison-porter)
 
 <h3 align="center" style="color:#7D6E83;">💫 Let's Connect</h3>
 
