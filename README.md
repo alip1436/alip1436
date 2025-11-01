@@ -6,9 +6,24 @@
 <h2>Creator |Graphic Designer| Web Developer</h2>
 <p>I am a passionate designer and developer blending creativity with technical skills, building a meaningful digital experience. </p>
 
-🔭 I’m currently working on A web based sleep education platform that combines health focused design to promote better sleep awareness and wellness.[Visit SleepWiser](https://adpdesign.art/sleepwiser)
+🔭 I’m currently working on A web based sleep education platform that combines health focused design to promote better sleep awareness and wellness.
+### 🚀 Projects
+- [SleepWiser](https://adpdesign.art/sleepwiser) – Web-based sleep education platform
+- [Portfolio](https://adpdesign.art) – Graphic design and web development portfolio
 
-- 🤔 I’m looking for help with collaboration on my SleepWiser educational website
+### 🤝 Let’s Collaborate
+I’m open to:
+- Design and web projects  
+- Sleep education initiatives  
+- UX/UI consulting
+
+Reach out via [Email Me](mailto:adpdesign@msn.com) or [Portfolio](https://adpdesign.art)
+
+- ### 🌱 Fun Facts
+- Coffee aficionado ☕  
+- Lover of moon-tone colors 🌙  
+- Exploring sleep science & wellness
+
 - 💬 Ask me how we can collaborate together!
 - 📫 How to reach me: [Email Me](mailto:adpdesign@msn.com) [Call Me](tel:+19706408487)
 <h3 align="center" style="color:#7D6E83;">💫 Let's Connect</h3>
