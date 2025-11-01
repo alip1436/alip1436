@@ -10,6 +10,7 @@
 ### 🚀 Projects
 - [SleepWiser](https://adpdesign.art/sleepwiser) – Web-based sleep education platform
 - [Portfolio](https://adpdesign.art) – Graphic design and web development portfolio
+- [Resume](https://www.adpdesign.art/resume.pdf) 
 - 
 ### 🛠 Skills
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
