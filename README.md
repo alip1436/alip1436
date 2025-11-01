@@ -10,6 +10,10 @@
 ### 🚀 Projects
 - [SleepWiser](https://adpdesign.art/sleepwiser) – Web-based sleep education platform
 - [Portfolio](https://adpdesign.art) – Graphic design and web development portfolio
+### 🛠 Skills
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-teal?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### 🤝 Let’s Collaborate
 I’m open to:
@@ -33,8 +37,6 @@ I’m open to:
   <span style="color:#82C6A6;">📞 +1 (970) 640-8487</span>
 </p>
 
-[![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-teal?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 -->
