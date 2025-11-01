@@ -6,7 +6,7 @@
 <h2>Creator |Graphic Designer| Web Developer</h2>
 <p>I am a passionate designer and developer blending creativity with technical skills, building a meaningful digital experience. </p>
 
-<p>🔭 I’m currently working on A web based sleep education platform that combines health focused design to promote better sleep awareness and wellness.[Visit SleepWiser](https://adpdesign.art/sleepwiser)</p> 
+🔭 I’m currently working on A web based sleep education platform that combines health focused design to promote better sleep awareness and wellness.[Visit SleepWiser](https://adpdesign.art/sleepwiser)
 
 ...
 - 🌱 I’m currently learning ...
